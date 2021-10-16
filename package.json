@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "description": "",
+  "name": "learn-data-reactive-test1",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack",
+    "yarn-update": "yarn install"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest",
+    "html-webpack-plugin": "latest"
+  }
+}
